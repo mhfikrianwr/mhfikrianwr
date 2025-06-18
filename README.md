@@ -8,15 +8,4 @@
 
 - 📫 How to reach me **fikrianwar9345@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mhfikriianwr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhfikriianwr" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/fikrianwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fikrianwar" height="30" width="40" /></a>
-</p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhfikrianwr&show_icons=true&locale=en&layout=compact" alt="mhfikrianwr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhfikrianwr&show_icons=true&locale=en" alt="mhfikrianwr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhfikrianwr&" alt="mhfikrianwr" /></p>
