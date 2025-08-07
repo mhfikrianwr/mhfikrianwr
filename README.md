@@ -1,14 +1,13 @@
 <center> 
 <h1 align="center">Muhammad Fikri Anwar</h1>
 
-<p align="center" style="font-size:30px;">
+<h2 align="center" style="font-size:30px;">
   <span style="color:#500073;">H</span>ello <br>
   I'm Fikri, an undergraduate Informatics Engineering student.
-</p>
+</h2>
 
-<p align="center">
-  Get to know more about me ↓
-</p>
+
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@MhFikriAnwr/f674e917-bfd0-410d-93bb-7e8cddf91d39.svg"></embed></figure>
+<p><img src="https://wakatime.com/share/@MhFikriAnwr/459882b2-18b9-4f11-b426-43dff0282542.svg" heigh ="320" width = "420"></img></p>
+
 <!--END_SECTION:waka-->
