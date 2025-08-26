@@ -7,7 +7,6 @@
   
 **``
 Undergraduate Informatics Student |
-Front End Enthusiast |
 Competitive Programmer
 ``**
 
