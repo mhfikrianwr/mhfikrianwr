@@ -13,7 +13,7 @@ Competitive Programmer
 
 - Undergraduate Informatics Students at Brawijaya University
 - i'am doing competitive programming
-- i'am currently Learning Front End development
+- i'am currently Learning ML and AI
   
 </p>
 
