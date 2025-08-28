@@ -6,8 +6,7 @@
   <br>
   
 **``
-Undergraduate Informatics Student |
-Competitive Programmer
+Undergraduate Informatics Student 
 ``**
 
 - Undergraduate Informatics Students at Brawijaya University
