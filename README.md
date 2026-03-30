@@ -24,4 +24,4 @@ Undergraduate Informatics Student
 <p>
 
 # Coding Statistics
-<img src="https://wakatime.com/share/@MhFikriAnwr/b479a675-3ce5-4765-9b1c-dab5d7004d42.svg" />
+<img src="https://wakatime.com/share/@MhFikriAnwr/5cf83bb8-a30f-41c2-b7f1-4d5b0d0bc85e.svg"/>
